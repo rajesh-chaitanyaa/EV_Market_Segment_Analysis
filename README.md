@@ -1,4 +1,4 @@
- ## OVERVIEW:
+ # OVERVIEW:
  
 An electric vehicle is one that operates on an electric motor instead of an internal combustion engine, which generates power by burning a mix of fuel and gases.
 
@@ -26,7 +26,7 @@ EVs adoption is expected to grow phenomenally in near future as low emission and
 ▫️Usage segmentation
 ▫️Demographic segmentation.
 
-# MARKET OVERVIEW: 
+## MARKET OVERVIEW: 
 
 Electric vehicle market segmentation:
 ▫️ Vehicle type
